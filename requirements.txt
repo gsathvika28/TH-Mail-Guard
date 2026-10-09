@@ -1,0 +1,15 @@
+email-validator
+checkdmarc
+dkimpy
+python-Levenshtein
+scikit-learn
+pandas
+networkx
+requests
+streamlit
+folium
+streamlit-folium
+pyvis
+pytest
+python-dotenv
+datasketch          # training-only: near-duplicate LSH in nlp_classifier/train.py
